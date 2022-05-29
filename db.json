@@ -1,4 +1,6 @@
- {
+{
+  "productList": [
+    {
       "image": "assets\\proizvidi\\slika-1.jpg",
       "title": "Cvece",
       "category": "Cvece",
@@ -70,3 +72,15 @@
       "description": "opop",
       "id": 9
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
